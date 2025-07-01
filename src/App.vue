@@ -1,5 +1,5 @@
 <template>
-  <Header title="骤雨重山图床" desc="拒绝流量劫持，全面使用HTTPS" />
+  <Header title="Netsky私人图床" desc="稳定高速，多站CDN" />
   <main><RouterView /></main>
   <Footer />
   <Toaster />
